@@ -1,0 +1,590 @@
+doc_ref,level,watch_name,watch_label,alert_score
+http://www.football-italia.net/150644/ex-fiorentina-president-cecchi-gori-jailed,0.1,Fiorentina,ORG,1
+http://www.football-italia.net/150644/ex-fiorentina-president-cecchi-gori-jailed,0.1,Vittorio Cecchi Gori,PERSON,1
+http://www.football-italia.net/150644/ex-fiorentina-president-cecchi-gori-jailed,0.1,Ansa,PERSON,1
+https://apnews.com/113e00e87074cfa17f824c59f40b5899,0.1,AP,ORG,0.657944679
+https://apnews.com/113e00e87074cfa17f824c59f40b5899,0.1,Kianoush Jahanpour,PERSON,0.657944679
+http://timesofindia.indiatimes.com/city/delhi/bsf-gives-rs-10-lakh-to-jawan-whose-house-was-burnt-in-delhi/articleshow/74437801.cms,0.1,"Bennett, Coleman &",ORG,1
+http://timesofindia.indiatimes.com/city/delhi/bsf-gives-rs-10-lakh-to-jawan-whose-house-was-burnt-in-delhi/articleshow/74437801.cms,0.1,Times Syndication Service,ORG,1
+http://www.abc.net.au/news/2020-03-03/nepal-paper-orphans-how-australians-support-illegal-orphanages/11953080,0.1,Himalayas,ORG,0.66661495
+http://www.abc.net.au/news/2020-03-03/nepal-paper-orphans-how-australians-support-illegal-orphanages/11953080,0.1,Devi,ORG,0.66661495
+http://www.abc.net.au/news/2020-03-03/nepal-paper-orphans-how-australians-support-illegal-orphanages/11953080,0.1,Kalawati,PERSON,0.66661495
+http://www.abc.net.au/news/2020-03-03/how-exorbitant-us-health-costs-could-impact-super-tuesday/12015198,0.1,Zann Nelson,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Hachette Book Group,ORG,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Ronan,ORG,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Leisa Ramey,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Apropos,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Ronan Farrow,ORG,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Dylan Farrow,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Hachette Book Group,ORG,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Woody Allen's,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Ronan,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Allen,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Dylan,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Hachette,ORG,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Dylan Farrow,PERSON,1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,0.1,Allen,PERSON,1
+https://www.thehindu.com/news/national/other-states/8-madhya-pradesh-congress-mlas-held-in-hotel-claims-party/article30978888.ece,0.1,Congress,ORG,0.62896049
+https://www.thehindu.com/news/national/other-states/8-madhya-pradesh-congress-mlas-held-in-hotel-claims-party/article30978888.ece,0.1,State,ORG,0.62896049
+https://www.thehindu.com/news/national/other-states/8-madhya-pradesh-congress-mlas-held-in-hotel-claims-party/article30978888.ece,0.1,Gurugram,PERSON,0.62896049
+https://www.thehindu.com/news/national/other-states/8-madhya-pradesh-congress-mlas-held-in-hotel-claims-party/article30978888.ece,0.1,Jitu Patwari,PERSON,0.62896049
+https://www.thehindu.com/news/national/other-states/8-madhya-pradesh-congress-mlas-held-in-hotel-claims-party/article30978888.ece,0.1,Jaivardhan Singh,PERSON,0.62896049
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,0.1,Joshua Vallow,PERSON,0.620871902
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,0.1,Tylee Ryan,PERSON,0.620871902
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,0.1,Jonathan Hunt,PERSON,0.620871902
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,0.1,Mary Pond,PERSON,0.620871902
+http://feeds.reuters.com/~r/reuters/topNews/~3/thd2R62yFB4/more-money-for-migrants-in-turkey-if-no-more-threats-eu-says-idUSKBN20T0V5,0.1,ZAGREB,PERSON,0.66661495
+http://feeds.reuters.com/~r/reuters/topNews/~3/thd2R62yFB4/more-money-for-migrants-in-turkey-if-no-more-threats-eu-says-idUSKBN20T0V5,0.1,Reuters,ORG,0.66661495
+http://feeds.reuters.com/~r/reuters/topNews/~3/thd2R62yFB4/more-money-for-migrants-in-turkey-if-no-more-threats-eu-says-idUSKBN20T0V5,0.1,The European Union,ORG,0.66661495
+http://feeds.reuters.com/~r/reuters/topNews/~3/thd2R62yFB4/more-money-for-migrants-in-turkey-if-no-more-threats-eu-says-idUSKBN20T0V5,0.1,EU,ORG,0.66661495
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Mark Wahlberg,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Peter Berg,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Spenser Confidential marks,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Wahlberg,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Netflix,ORG,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,John Wick,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Thin Lizzy,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Spenser,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Hire,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Robert Urich,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,ABC,ORG,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Robert B. Parker,PERSON,1
+https://ew.com/movies/movie-reviews/spenser-confidential-review-mark-wahlberg/,0.1,Ace Atkins,PERSON,1
+https://apnews.com/ca44ce15cf3feb9faca49b4d59fd0cab,0.1,DUBAI,ORG,1
+https://apnews.com/ca44ce15cf3feb9faca49b4d59fd0cab,0.1,AP,ORG,1
+https://apnews.com/ca44ce15cf3feb9faca49b4d59fd0cab,0.1,Crown Prince Mohammed bin Salman,PERSON,1
+https://apnews.com/ca44ce15cf3feb9faca49b4d59fd0cab,0.1,King Salman,PERSON,1
+https://apnews.com/ca44ce15cf3feb9faca49b4d59fd0cab,0.1,Prince Ahmed bin Abdelaziz,PERSON,1
+https://apnews.com/ca44ce15cf3feb9faca49b4d59fd0cab,0.1,Prince Mohammed bin Nayef,PERSON,1
+http://timesofindia.indiatimes.com/business/india-business/ed-arrests-yes-bank-promoter-rana-kapoor-in-dhfl-money-laundering-case/articleshow/74533128.cms,0.1,"Bennett, Coleman &",ORG,0.66661495
+http://timesofindia.indiatimes.com/business/india-business/ed-arrests-yes-bank-promoter-rana-kapoor-in-dhfl-money-laundering-case/articleshow/74533128.cms,0.1,Times Syndication Service,ORG,0.66661495
+http://timesofindia.indiatimes.com/business/india-business/rana-kapoor-sent-to-ed-custody-till-wednesday/articleshow/74536335.cms,0.1,"Bennett, Coleman &",ORG,0.66661495
+http://timesofindia.indiatimes.com/business/india-business/rana-kapoor-sent-to-ed-custody-till-wednesday/articleshow/74536335.cms,0.1,Times Syndication Service,ORG,0.66661495
+http://www.football-italia.net/150960/spal-surprise-parma-amid-chaos,0.1,Parma,ORG,1
+http://www.football-italia.net/150960/spal-surprise-parma-amid-chaos,0.1,SPAL,ORG,1
+http://www.football-italia.net/150960/spal-surprise-parma-amid-chaos,0.1,Andrea Petagna,ORG,1
+http://www.football-italia.net/150960/spal-surprise-parma-amid-chaos,0.1,Stadio Tardini,PERSON,1
+http://timesofindia.indiatimes.com/india/yes-bank-crisis-latest-developments/articleshow/74541207.cms,0.1,"Bennett, Coleman &",ORG,0.607864261
+http://timesofindia.indiatimes.com/india/yes-bank-crisis-latest-developments/articleshow/74541207.cms,0.1,Times Syndication Service,ORG,0.607864261
+https://thenextweb.com/hardfork/2020/03/09/satoshi-nakaboto-bitcoin-plunges-alongside-global-markets/,0.1,TNW,ORG,0.715506196
+https://www.cnbc.com/2020/03/09/cramer-trump-must-take-action-to-avoid-coronavirus-induced-recession.html,0.1,CNBC,ORG,0.66661495
+https://www.cnbc.com/2020/03/09/cramer-trump-must-take-action-to-avoid-coronavirus-induced-recession.html,0.1,Jim Cramer,PERSON,0.66661495
+https://www.cnbc.com/2020/03/09/cramer-trump-must-take-action-to-avoid-coronavirus-induced-recession.html,0.1,OPEC,ORG,0.66661495
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Reuters,ORG,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Mike Pence,PERSON,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Pence,PERSON,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,UnitedHealth Group Inc,ORG,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Aetna,ORG,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Blue Cross Blue Shield,ORG,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Humana,ORG,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Blue Cross Blue Shield,ORG,0.651097298
+http://feeds.reuters.com/~r/reuters/topNews/~3/yV8N8pAJchA/pence-to-meet-tuesday-with-health-insurance-representatives-idUSKBN20W2RG,0.1,Anthem,ORG,0.651097298
+https://www.polygon.com/2020/3/10/21173238/horizon-zero-dawn-pc-release-date-summer-2020,0.1,Cookie Policy,PERSON,0.668998837
+https://www.cnbc.com/2020/03/11/mortgage-refinance-applications-spike-79percent-as-interest-rates-sink.html,0.1,the Mortgage Bankers Association's,ORG,0.627019763
+http://timesofindia.indiatimes.com/india/suspension-of-seven-congress-lok-sabha-mps-revoked-by-speaker-om-birla/articleshow/74574306.cms,0.1,"Bennett, Coleman &",ORG,0.620871902
+http://timesofindia.indiatimes.com/india/suspension-of-seven-congress-lok-sabha-mps-revoked-by-speaker-om-birla/articleshow/74574306.cms,0.1,Times Syndication Service,ORG,0.620871902
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Shellie Grey,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lisa Wolfert,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Roberto Kerr,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Dora Arndt,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Daniel Price,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Joyce Ramirez,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Christopher Meadows,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Latasha Marenco,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Natalie Richardson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Howard Jones,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Joseph Cole,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lance Morrison,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Karen Culotta,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Sheila Mcfarland,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Rose Kleinschmidt,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Virginia Erwin,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Jack Haley,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lisa Wilson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Tracey Karl,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Carlos Fetters,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Dixie Perkins,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Deloris Dombrowski,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Helen Ivie,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Maria Hinson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Amanda Lautman,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Darlene Sheffield,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,James Elvin,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,David Ellis,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Hannah Gunnerson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,James Bohr,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Grace Bliss,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Deborah Barker,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Christine Walker,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Mark Beddo,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,George Morring,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lorine Ferguson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Sharon Mckenney,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Kala Branum,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Ellan Phillips,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Evelyn Buchholz,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,John Smith,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Arthur Diaz,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Deborah Gunter,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Charles Scurry,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Michael Morrison,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Clarence Fields,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Heather Lee,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Roderick Tedford,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Jaclyn Johnson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Alan Kevan,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Leigh Clark,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Christopher Hearnsberger,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Manuel Pettus,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Mindy Waters,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Patricia Reeve,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Jeffrey Martins,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Joseph Clemens,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Danielle Nelson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Tia Mark,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Mary Fuller,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Richard Chan,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Mary Palazzi,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Stanley Osgood,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Thomas Yentsch,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Franklin Pavao,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Debra Shock,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Robert Mcdougall,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Dawn Everhart,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Michael Dawkins,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Myrtle Savoy,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Emery Burton,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Christopher Lytch,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Raymond Randolph,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Tamra Graham,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Annie Shirley,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Anna Griffin,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Carrie Guarini,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Andrew Williamson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Elijah Gilcrease,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Marvin Chan,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Richard Kendrick,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lester Bogart,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Nancy Kidd,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Thomas Fletcher,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Elizabeth Guerrero,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Odessa Foster,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Roger Taylor,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Edward Dougher,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Cindy Heras,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Willard Gerber,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Stacy Perez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jackie Sinclaire,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Terrence Colwell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,George King,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Alicia Labarre,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Pamela Simar,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Dan Montoya,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Eva Bittle,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jesus Shaw,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Natasha Decker,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lillian Wilson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kevin Gibbs,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,David Hockman,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Emil Vogel,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Betty Cearns,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Shelley Carr,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joanna Pimental,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ruth Bookman,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Robinson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Antonio Fischer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Rhonda Taylor,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jonathan Clear,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Darwin Ibarra,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Guy Johnson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jo Jones,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Heather Lester,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Patricia Brown,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Marilyn Goodhart,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ruby Encino,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Francis Natividad,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sidney Fisher,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Cassie Finney,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Eleanor White,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Helen Bass,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Carla Russi,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Vikki Kinyon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Albert Ramirez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Victoria Brown,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Martha Chasteen,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Elizabeth Maloon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joel Victoria,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Patricia Morin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Matthew Ulberg,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Trisha Leon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Josephine Pierce,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Cynthia Norton,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Brian Peterson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Randee Cooper,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Toni Bailey,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,April Stokes,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jackie Smith,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jill Goodwin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Craig Foltz,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jennifer Lambert,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Wyrick,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Anna Gonzalez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,David Moore,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Hale,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jason Middleton,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lura Glaab,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jimmy Gatewood,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Orlando Roddy,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Thomas Rojas,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Belinda Mertz,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ty Cuthbert,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michael Allen,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,George Johnson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ricardo Carballo,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joshua Bravo,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Flores,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Daniel Hamlin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Steven Holt,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Chad Padgett,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Steven Stuart,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jose Province,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jon Gordon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kendall Faires,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Nicholas Barr,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Alec Hardy,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kelly Benedict,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kristen Wood,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Heather Norwood,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jennifer Trader,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Terry Desalvo,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Agnes Tighe,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Patricia Hymel,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Juliane Powell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Judy Gibbs,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,David Grace,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jessica Haverstick,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Casandra Packer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Charles Rhoads,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jeannette Wooten,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Maxima Delker,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Robert Kellison,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Yvonne Leflore,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Charles Nelson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Richard Winter,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kenton Burger,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Louis Caligiuri,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michael Lowe,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ed Harris,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Micheal Johnson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Paula Schmidgall,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Burns,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sarah Wells,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jacob Stricklin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jennie Mire,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Macy Aitken,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michael Vanscyoc,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Alicia Stater,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Alexa Hernandez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michael Walker,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Wanda Seneker,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Tony Odonnell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Beatrice Judon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Phyllis Lamar,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Edith Jarmon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lorraine Fox,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Nesbit,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Claude Dawson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gilma Jackson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Nathan Gardner,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gary Gillespie,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Candace Bond,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Debra Jacobs,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Milton,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Emily Cocke,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Pearl Stewart,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Chris Sheffield,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Richard Davis,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Bruce Wilson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Peggy Brodie,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jean Ewald,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Iliff,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Shannon Gansen,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Edward Luckner,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Elizabeth Needham,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sean Crayton,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Charity Beck,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gloria Jimenez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Krista Dixon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kira Crampton,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Robert Province,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Tracy Springfield,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Mary Mason,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Debbie Mishou,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ashley Barstow,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Raul Jones,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Andrea Bonner,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ronald Travis,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jose Cook,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Tricia Askew,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Samuel Mitchell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Dallas Taylor,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Helen Duran,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Diane Mcdaniel,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Evelyn Volo,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Peter Floyd,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Bradley Geller,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Esther Beason,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Meta Knight,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Malone,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Angie Hammett,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Angela Lowery,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Stewart Palmer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sylvia Hunter,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Yolanda Frediani,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Porter,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lillian Hirz,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Laura Range,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Betty Wilson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Frank Stubbert,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Cynthia Marez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michelle Vaness,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Latonya Sisneros,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Charles Monteros,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kara Houston,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Maureen Villa,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Theodore Washington,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Robert Ben,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lena Wiggins,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Rudolph Aron,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Margaret Rose,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,David Kellogg,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Erin Elrod,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kathlyn Clark,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Sharum,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gloria Casey,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Laura Sanford,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Marion Packard,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Rios,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ruben Stanford,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Doris Moses,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Eddie Greathouse,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jerry Childs,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Arthur Wright,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Palmer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Helen Dale,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Brian Bennett,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,John Beadle,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gloria Markham,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Josephine Plotz,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kirby Williams,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Julie Magnuson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Beth Noble,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Nellie Rogers,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Susan Cosme,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gabriela Reyes,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Christal Vashaw,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Stephen Reynolds,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Mary Ferguson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Darin Caskey,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kathleen Kun,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Irene Colon,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,David Moriarty,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Clark Murray,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sandy Curnutte,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Katherine Nix,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Paul Pursley,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ayanna Matherne,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gwendolyn Himes,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sylvia Moore,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Anne Madore,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Noel Baum,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Diane Brown,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Paul Dunn,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Earl Quick,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Charles Gallaher,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Roberts,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Guy Byrnes,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,George Mcneill,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Juan Allen,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Carolynn Spencer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jamie Coulson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sierra Caudill,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Myrtle Torres,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Clotilde Phillips,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Cliff Wiggen,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Violeta Hull,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Bryon Lajara,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Anthony Levasseur,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Daniel Sherlock,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Katherine Hardy,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Parsons,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kayla Daniels,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Stanley Beaudin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Teresa Mccalley,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Elizabeth Palacios,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joan Perry,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Luisa Sullivan,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,David Rowell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Cheryl Cronin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Kearney,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Janet Bean,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gladys Bellomy,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Edgar Jiron,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Valerie Marsaw,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Dawkins,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jaime Younger,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Robin Sutton,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michael Lopez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Colbert,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Glenn Plunkett,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Marguerite Gutierrez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Harriet Constantine,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Eleanor Maki,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Bobbie Whitfield,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Carissa Gonzalez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Marion Harman,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joselyn Bonelli,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Margaret Frank,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lucy Doctor,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Judith Gilbert,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Deborah Bravo,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Thomas,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Dobson,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kathleen Romero,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sarah Gammage,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,James Travis,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Eugene Mingus,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Doyle Butler,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Robin Lasky,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Carol Willis,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Darrell Abramek,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Helen Schaefer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Tameka Martinez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Elida Adkins,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jeane Sansotta,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kim Sandifer,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Norbert Rodgers,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Morrow,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Charles Kissinger,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Shila Smith,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ken Lowrie,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Ronald Rodriguez,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Virginia Owens,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Marvin Kelly,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Wade Lester,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Daniel Winstead,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Tammy Demarco,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Martin Edwards,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Mabel Williams,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Maria Stahlberg,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Joseph Ingram,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Betty Banks,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Tammy Hipps,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Henrietta Baxter,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Julian Dupas,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jon Ellis,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Josephine Zehender,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Heather Torres,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Alan Mitchell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lynn Christensen,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Sidney Eastman,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Chad Porter,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Marissa Edens,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Kenneth Dunham,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lauren Brown,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Lisa Burns,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,William Bouldin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Imogene Christian,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Amy Garcia,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Mary Metheney,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Alfredo Odonnell,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Demetrius Lewis,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Michael Rybowiak,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Peggy Heinrich,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Theodore Higgins,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Gloria Griffin,INT,1.1
+https://www.foxnews.com/us/lori-vallow-in-idaho-jail-ahead-of-friday-court-appearance-in-missing-children-case,1.1,Jaimie Hall,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Kevin Weaver,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Charles Stanley,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Patricia Daigle,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Teresa Burns,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lynda Hardy,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Charles Hardy,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Andrew Kelly,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Frieda Johnson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,William Villarreal,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Eula Gregoire,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Nicolas Hagee,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Courtney Langford,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Mary Harris,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Lane Mcmillan,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Steve Anderson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Joseph Johnson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Irmgard Alcala,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Gale Meyer,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Cristine Hatchett,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Robert Stout,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Roosevelt Blackwell,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Robert Millhouse,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Valarie Kent,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Dawn Willis,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Monica Henderson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Paul Grill,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Martin Chow,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Raymond Ziegler,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Aaron Rambo,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Robert Whaley,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Rick Shea,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Brenda Miller,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Joana Romero,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Kevin Odell,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Eric Hough,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Vincent Ashley,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Irene Betts,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Benjamin Hinnant,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Robert Cota,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Anthony Klima,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Jennifer Howard,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Debbie Morgan,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Joseph Simpson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Michelle Bennett,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Dan Hart,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Celia Davis,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Noel Book,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Ruth Bittner,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Denise Grinnell,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Ricky Garcia,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Jacinto Bledsoe,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Sarah Chambers,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Denise Flemming,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Ruth Peterson,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,David Conover,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Marcus Hall,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Tiffany Beard,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Sarah Thomas,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Rebecca Patrick,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Marla Niemi,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Becky Harrington,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Robert Bethell,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Stefani Yousef,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Christine Riggins,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Tamika Guerra,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Kerry Havener,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Vanessa Rickman,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,David Concepcion,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Arthur Reed,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Gary Saunders,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Neal Richards,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,June Meyers,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Flora Hallman,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Charlie Hayes,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Darrell Gillespie,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Gwendolyn Huguley,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Andrew Norman,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Rhonda Parris,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Maria Mcmillan,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Jeannine Mcdonald,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Cleo Whitaker,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Brett Wells,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Marlene Grady,INT,1.1
+https://ew.com/books/ronan-farrow-dylan-farrow-criticize-woody-allen-memoir-publisher/,1.1,Mark Chennault,INT,1.1
